@@ -2,7 +2,7 @@
 ### Flutter 2.8.1 Null Safety
 Car rental app created by Jakub Sobański and Martin Gogołowicz (creator of UI). 
 - #### UI design from: https://github.com/sajibsaj66/rent_a_car
-- #### Jakub Sobański ( creator of backend ) - https://github.com/sajibsaj66 | [https://www.linkedin.com/in/jakubsobanski/](https://www.linkedin.com/in/shamsul-alam-sajib-662460201/)
+- #### Jakub Sobański ( creator of backend ) - https://github.com/sajibsaj66 | https://www.linkedin.com/in/shamsul-alam-sajib-662460201/
 ## You need to type flutter pub get in terminal after download.
 ## YOU NEED ADD APP TO YOUR DATABSE/FIREBASE BEFORE START APLICATION.
 ## ADD YOUR API KEY TO ANDROIDMANIFEST.XML!
