@@ -1,6 +1,6 @@
 # Flutter Car Rental App  with darkmode support
 ### Flutter 2.8.1 Null Safety
-Car rental app created by Jakub Sobański and Martin Gogołowicz (creator of UI). Backend created from 1/2/2022 to 1/3/2022.
+Car rental app created by Shamsul Alam Sajib (creator of UI). Backend created from 1/2/2023 to 1/3/2023.
 - #### UI design from: https://github.com/sajibsaj66/rent_a_car
 - #### Sajib's  ( creator of backend ) - https://github.com/sajibsaj66 | https://www.linkedin.com/in/shamsul-alam-sajib-662460201/
 ## You need to type flutter pub get in terminal after download.
